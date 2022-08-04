@@ -1,0 +1,35 @@
+_id: req_a4d120d379944d2091f9be1163f4e9ec
+type: Request
+parentId: fld_7ee8d0ad2a7a44cf9b4d0fdfcbb30478
+modified: 1658822172904
+created: 1655902142163
+url: https://api.ignif.ai/v1/nodes/10d383df-dacc-43c3-b4fe-d748deeeda3f/apps/smart_thumbnails/run
+name: "SVT : fashion short video standard"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"presets_ids": [
+    		"fashion_shortvideo_standard"
+    	]
+    }
+parameters: []
+headers:
+  - id: pair_2a271d37abbb476aac018e11cb2c49d0
+    name: x-api-key
+    value: 69A2B3A5F88D45F19E984784D73E9991
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_e4215d2684e3410c9217ff2612ca8518
+authentication: {}
+metaSortKey: -1648548905280.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

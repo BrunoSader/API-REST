@@ -1,0 +1,34 @@
+_id: req_d438da116c0b423090770a2e5e801f90
+type: Request
+parentId: fld_7ee8d0ad2a7a44cf9b4d0fdfcbb30478
+modified: 1649245932969
+created: 1649245867202
+url: https://api.ignif.ai/v1/nodes/1753bc6c-0b21-4a45-bad0-3c6f567c38a5
+name: "Delete Node : Single"
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_c2b343c5a3444537a7244c2e38941833
+    name: ""
+    value: ""
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b636d4e8b81d421ba167eb9eb26e45a9
+  - id: pair_19fc2f3ddd6143f0bf3dd490b7d9115f
+    name: x-api-key
+    value: 69A2B3A5F88D45F19E984784D73E9991
+    description: ""
+authentication: {}
+metaSortKey: -1648548905477
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

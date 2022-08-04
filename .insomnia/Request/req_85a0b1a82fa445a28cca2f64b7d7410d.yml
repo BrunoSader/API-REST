@@ -1,0 +1,44 @@
+_id: req_85a0b1a82fa445a28cca2f64b7d7410d
+type: Request
+parentId: fld_7ee8d0ad2a7a44cf9b4d0fdfcbb30478
+modified: 1653999996910
+created: 1648558470593
+url: https://api.ignif.ai/v1/nodes
+name: "New Node : Season"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"node_type": "season",
+    	"public_id": "TALKSHOW_MAG_SANTE_2022",
+    	"title": "Le Magazine de la Sante 2022",
+    	"parent_id": "3ca8f9a2-e9bc-4210-bbdb-3fd96751b094",
+    	"genre": "Health",
+    	"subgenre": "",
+    	"year": 2022,
+    	"season_number": 24
+    }
+parameters:
+  - id: pair_c2b343c5a3444537a7244c2e38941833
+    name: ""
+    value: ""
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b636d4e8b81d421ba167eb9eb26e45a9
+  - id: pair_19fc2f3ddd6143f0bf3dd490b7d9115f
+    name: x-api-key
+    value: 69A2B3A5F88D45F19E984784D73E9991
+    description: ""
+authentication: {}
+metaSortKey: -1648548905402
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

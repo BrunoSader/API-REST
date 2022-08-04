@@ -1,0 +1,25 @@
+_id: req_9fc77ca5107d44df9dbbb82ee314c4a0
+type: Request
+parentId: fld_cadfaade795b45ca8ef7f526d1685541
+modified: 1658822355489
+created: 1658822192457
+url: https://api.ignif.ai/v1/apps/timeline_markers/presets
+name: "TM : Settings"
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_a6699926b6974de6a7081be9975001f2
+    name: x-api-key
+    value: 131E42888E214F388C5F8FBF786945D8
+    description: ""
+authentication: {}
+metaSortKey: -1658822192457
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

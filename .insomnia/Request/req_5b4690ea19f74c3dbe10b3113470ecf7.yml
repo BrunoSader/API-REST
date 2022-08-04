@@ -1,0 +1,35 @@
+_id: req_5b4690ea19f74c3dbe10b3113470ecf7
+type: Request
+parentId: fld_0a033a502798490986b8d42cc0f739d5
+modified: 1659514230725
+created: 1648561628945
+url: https://api.ignif.ai/v1/nodes/b800d6b4-9603-434a-8433-0ba798b2ba37/apps/smart_thumbnails/run
+name: "SVT : Quick and Dirty"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"presets_ids": [
+    		"short_video_do_not_edit"
+    	]
+    }
+parameters: []
+headers:
+  - id: pair_2a271d37abbb476aac018e11cb2c49d0
+    name: x-api-key
+    value: 7469590DCE8042E2890B4A73EA67F185
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_e4215d2684e3410c9217ff2612ca8518
+authentication: {}
+metaSortKey: -1648548905302
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

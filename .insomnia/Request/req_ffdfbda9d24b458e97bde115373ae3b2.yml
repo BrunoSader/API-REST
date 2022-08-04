@@ -1,0 +1,35 @@
+_id: req_ffdfbda9d24b458e97bde115373ae3b2
+type: Request
+parentId: fld_72f7fb9b1ec747cc9d855069226fc676
+modified: 1655385320340
+created: 1648636816138
+url: https://api.ignif.ai/v1/nodes/17e49614-2b0c-4605-886f-1dccc0b4cdf6/apps/smart_thumbnails/run
+name: "SVT : Generate Preview"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"presets_ids": [
+    		"generate_preview"
+    	]
+    }
+parameters: []
+headers:
+  - id: pair_2a271d37abbb476aac018e11cb2c49d0
+    name: x-api-key
+    value: 390EB7EA187745E5944493183F8BA2D4
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_e4215d2684e3410c9217ff2612ca8518
+authentication: {}
+metaSortKey: -1648548905277
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

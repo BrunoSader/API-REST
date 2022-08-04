@@ -1,0 +1,35 @@
+_id: req_7e3b081454414c3d9ce66b563f64dc94
+type: Request
+parentId: fld_cadfaade795b45ca8ef7f526d1685541
+modified: 1659514319038
+created: 1659001255592
+url: https://api.ignif.ai/v1/nodes/2bb8a259-9496-41da-b69e-60562d85aae2/apps/timeline_markers/run
+name: "TM: Ad Breaks Dev Series"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"presets_ids": [
+    		"adbreaks_dev_series"
+    	]
+    }
+parameters: []
+headers:
+  - id: pair_2a271d37abbb476aac018e11cb2c49d0
+    name: x-api-key
+    value: 131E42888E214F388C5F8FBF786945D8
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_e4215d2684e3410c9217ff2612ca8518
+authentication: {}
+metaSortKey: -1658822192357
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

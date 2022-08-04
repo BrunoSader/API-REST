@@ -1,0 +1,35 @@
+_id: req_3aa77cded26d4bbcaa8add377429dc85
+type: Request
+parentId: fld_cadfaade795b45ca8ef7f526d1685541
+modified: 1659515360728
+created: 1659514543616
+url: https://api.ignif.ai/v1/nodes/8b3dcd32-0acb-4eea-ab24-7a6fec0bc060/apps/timeline_markers/run
+name: "TM: Ad Breaks Dev Talskhows"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"presets_ids": [
+    		"adbreaks_dev_talkshows"
+    	]
+    }
+parameters: []
+headers:
+  - id: pair_2a271d37abbb476aac018e11cb2c49d0
+    name: x-api-key
+    value: 131E42888E214F388C5F8FBF786945D8
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_e4215d2684e3410c9217ff2612ca8518
+authentication: {}
+metaSortKey: -1658822192382
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
