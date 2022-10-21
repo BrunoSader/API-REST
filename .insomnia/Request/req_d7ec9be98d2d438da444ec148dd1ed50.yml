@@ -1,11 +1,10 @@
-_id: req_7e3b081454414c3d9ce66b563f64dc94
+_id: req_d7ec9be98d2d438da444ec148dd1ed50
 type: Request
-parentId: fld_cadfaade795b45ca8ef7f526d1685541
-modified: 1665411217684
-created: 1659001255592
-url: "https://api.ignif.ai/v1/nodes/5e459c6d-9084-43bb-9884-940e1faee6c6/apps/t\
-  imeline_markers/run  "
-name: "TM: Ad Breaks Dev Series"
+parentId: fld_7ee8d0ad2a7a44cf9b4d0fdfcbb30478
+modified: 1665575574445
+created: 1665411248235
+url: https://api.ignif.ai/v1/nodes/8f15a1e0-53fd-40a5-a937-b7cba9ec1984/apps/auto_edit/run
+name: "AE : RD Cartoon 3:4 Sans Titre"
 description: ""
 method: POST
 body:
@@ -13,20 +12,20 @@ body:
   text: |-
     {
     	"presets_ids": [
-    		"adbreaks_dev_series"
+    		"cartoon_3_4_st"
     	]
     }
 parameters: []
 headers:
   - id: pair_2a271d37abbb476aac018e11cb2c49d0
     name: x-api-key
-    value: 131E42888E214F388C5F8FBF786945D8
+    value: 69A2B3A5F88D45F19E984784D73E9991
     description: ""
   - name: Content-Type
     value: application/json
     id: pair_e4215d2684e3410c9217ff2612ca8518
 authentication: {}
-metaSortKey: -1658822192357
+metaSortKey: -1648548905284.0312
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

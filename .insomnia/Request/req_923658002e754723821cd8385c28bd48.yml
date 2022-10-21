@@ -1,11 +1,10 @@
-_id: req_7e3b081454414c3d9ce66b563f64dc94
+_id: req_923658002e754723821cd8385c28bd48
 type: Request
-parentId: fld_cadfaade795b45ca8ef7f526d1685541
-modified: 1665411217684
-created: 1659001255592
-url: "https://api.ignif.ai/v1/nodes/5e459c6d-9084-43bb-9884-940e1faee6c6/apps/t\
-  imeline_markers/run  "
-name: "TM: Ad Breaks Dev Series"
+parentId: fld_7ee8d0ad2a7a44cf9b4d0fdfcbb30478
+modified: 1666357998957
+created: 1665584925139
+url: https://api.ignif.ai/v1/nodes/e0af3023-79b1-43cf-a21d-213793f7aa80/apps/smart_thumbnails/run
+name: "SVT : RD Cartoon 1fps"
 description: ""
 method: POST
 body:
@@ -13,20 +12,20 @@ body:
   text: |-
     {
     	"presets_ids": [
-    		"adbreaks_dev_series"
+    		"rd_cartoon_1fps"
     	]
     }
 parameters: []
 headers:
   - id: pair_2a271d37abbb476aac018e11cb2c49d0
     name: x-api-key
-    value: 131E42888E214F388C5F8FBF786945D8
+    value: 69A2B3A5F88D45F19E984784D73E9991
     description: ""
   - name: Content-Type
     value: application/json
     id: pair_e4215d2684e3410c9217ff2612ca8518
 authentication: {}
-metaSortKey: -1658822192357
+metaSortKey: -1648548905284.4219
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
